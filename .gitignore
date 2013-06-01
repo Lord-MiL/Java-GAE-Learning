@@ -11,6 +11,9 @@ gwt-unitCache/
 test-classes/
 www-test/
 
+# logs #
+.gwt/
+
 # boilerplate generated classes #
 .apt_generated/
 
